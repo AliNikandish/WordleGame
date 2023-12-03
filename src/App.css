@@ -1,0 +1,28 @@
+  
+  #correct {
+    background-color: #528d4e;
+  }
+  
+  #almost {
+    background-color: #b49f39;
+  }
+  
+  #error {
+    background-color: #3a393c;
+  }
+  
+
+  @font-face {
+    font-family: VazirLight;
+    src: url("./assets/Fonts/Vazirmatn-Light.woff2") format("truetype");
+  }
+
+@font-face {
+    font-family: VazirMedium;
+    src: url("./assets/Fonts/Vazirmatn-Medium.woff2") format("truetype");
+  }
+
+  @font-face {
+    font-family: VazirBold;
+    src: url("./assets/Fonts/Vazirmatn-Bold.woff2") format("truetype");
+  }
