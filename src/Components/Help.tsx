@@ -25,6 +25,7 @@ export default function Help() {
 
         <p>راهنما</p>
       </button>
+      <p className="my-1 text-sm">پس از تکمیل حروف دکمه ی enter کیبورد رو بزنید</p>
       {showModal ? (
         <>
           <div className="justify-center items-center flex overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none">
